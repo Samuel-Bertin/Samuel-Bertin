@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Samuel-Bertin
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java and PHP.
+- 👀 I’m interested in CI/CD.
+- 🌱 I’m currently at IMT Atlantique.
 - 💞️ I’m looking to collaborate on OSS Projects. 
-- 📫 How to reach me ...
+- 📫 Message me here !
 
 <!---
 Samuel-Bertin/Samuel-Bertin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
